@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-13T15:29:48.577Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" etag="gw3O16De9UOoWfrb2UKE" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-13T15:30:25.661Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" etag="t2YOnDAufhotssOnZRv7" version="21.1.2" type="github">
   <diagram name="Sayfa -1" id="48OVmbry9894EROefiWZ">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,8 +20,8 @@
         <mxCell id="J0DJ29xawMuSTEmcR2ub-1" value="Ses Sistemi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="J0DJ29xawMuSTEmcR2ub-2" value="2 hadta" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="610" y="230" width="60" height="30" as="geometry" />
+        <mxCell id="J0DJ29xawMuSTEmcR2ub-2" value="2 hafta" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="615" y="160" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J0DJ29xawMuSTEmcR2ub-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J0DJ29xawMuSTEmcR2ub-4" target="J0DJ29xawMuSTEmcR2ub-5">
           <mxGeometry relative="1" as="geometry" />
@@ -36,16 +36,16 @@
           <mxGeometry x="344" y="450" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J0DJ29xawMuSTEmcR2ub-7" value="1 hafta" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="610" y="400" width="60" height="30" as="geometry" />
+          <mxGeometry x="615" y="300" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J0DJ29xawMuSTEmcR2ub-8" value="Vinyl Sistemi Düzenlemesi (Bitiriş)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="329" y="600" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J0DJ29xawMuSTEmcR2ub-10" value="2 - 3 hafta" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="600" y="535" width="80" height="30" as="geometry" />
+          <mxGeometry x="605" y="460" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J0DJ29xawMuSTEmcR2ub-11" value="3 4 hafta" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="600" y="705" width="70" height="30" as="geometry" />
+          <mxGeometry x="610" y="630" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J0DJ29xawMuSTEmcR2ub-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="J0DJ29xawMuSTEmcR2ub-13" target="J0DJ29xawMuSTEmcR2ub-4">
           <mxGeometry relative="1" as="geometry">
